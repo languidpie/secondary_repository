@@ -34,7 +34,7 @@ filter.lfs.process=git-lfs filter-process
 
 credential.helper=manager
 
-user.name=marshmari
+user.name=
 
 user.email=mariliis.pihlapuu@gmail.com
 
