@@ -59,3 +59,6 @@ remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 branch.master.remote=origin
 
 branch.master.merge=refs/heads/master
+
+Small explanation about a file in my .gitignore file:
+.env - It stores configuration seperately from the code (git ignores files ending with .env)
